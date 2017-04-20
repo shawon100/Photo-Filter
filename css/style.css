@@ -1,0 +1,55 @@
+
+body
+{
+    background:url('ruetian13.jpg') no-repeat center center fixed #fff;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+
+   
+}
+
+.area
+{
+	margin-top:200px;
+	margin-bottom: 200px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.xmm
+{
+	border:1px solid gray;
+	border-radius: 5px;
+	margin-bottom:50px;
+	box-shadow: 2px 2px 2px 2px gray;
+	font-weight: bold;
+	max-width: 320px;
+	margin:0 auto;
+
+}
+.xm
+{
+	border:1px solid gray;
+	border-radius: 5px;
+	margin-bottom:50px;
+	box-shadow: 2px 2px 2px 2px gray;
+	font-weight: bold;
+	margin:0 auto;
+	padding:20px;
+
+}
+.main
+{
+   padding:50px;
+   background-color: white;
+   box-shadow: 2px 2px 2px 2px gray;
+   border:1px solid gray;
+   border-radius: 5px;
+
+}
+
+
+
